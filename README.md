@@ -27,5 +27,6 @@ Follow these steps to run the sorting algorithms and analyze their performance:
 
 - Run the Jupyter Notebook in Local or google colab
 ## Contact
--Khondoker Mirazul Mumenin 
--Tasfia Tasnim
+
+- Khondoker Mirazul Mumenin 
+- Tasfia Tasnim
