@@ -3,14 +3,7 @@
 This project implements and compares the performance of various comparison-based sorting algorithms. The goal is to analyze their execution time for different input sizes and specific cases (sorted and reversely sorted inputs).
 
 ## Table of Contents
-
-- [https://github.com/Khondoker-M/Algorithm-Project-/blob/main/Project1.ipynb](#algorithms-implemented)
-- [Execution Instructions](#execution-instructions)
-- [Performance Analysis](#performance-analysis)
-- [Special Cases](#special-cases)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+The implementation can be found in the [Project1.ipynb](https://github.com/Khondoker-M/Algorithm-Project-/blob/main/Project1.ipynb) file.
 
 ---
 
@@ -32,7 +25,4 @@ The following sorting algorithms are implemented in this project:
 
 Follow these steps to run the sorting algorithms and analyze their performance:
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/comparison-sorting-algorithms.git
-   cd comparison-sorting-algorithms
+- Run the Jupyter Notebook in Local or google colab
